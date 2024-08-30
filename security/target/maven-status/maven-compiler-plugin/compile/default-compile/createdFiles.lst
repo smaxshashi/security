@@ -1,0 +1,8 @@
+com\spring\security\service\ClientService.class
+com\spring\security\writeRepo\ClientRepositoryWrite.class
+com\spring\security\SecurityApplication.class
+com\spring\security\controller\TestController.class
+com\spring\security\readRepo\ClientRepositoryRead.class
+com\spring\security\config\ProjectUserDetailsService.class
+com\spring\security\config\ProjectSecurityConfig.class
+com\spring\security\entity\Client.class
